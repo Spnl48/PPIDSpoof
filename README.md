@@ -16,9 +16,10 @@ DEMO
 
 **in this case, we choose svchost with Medium Integrity Level and RuntimeBroker.exe and spawn child process.**
 
-![image](https://github.com/Spnl48/PPIDSpoof/assets/68971838/ffa715f2-3173-4cb6-810f-b0cd01284123)
-![image](https://github.com/Spnl48/PPIDSpoof/assets/68971838/787af28d-9c59-4a4c-b276-513197021136)
-![image](https://github.com/Spnl48/PPIDSpoof/assets/68971838/a2a8f7d3-7f5b-439d-89fc-f1021f5aa290)
-![image](https://github.com/Spnl48/PPIDSpoof/assets/68971838/389d9c99-2e0e-4120-af16-424a4a929ab9)
+![image](https://github.com/Spnl48/PPIDSpoof/assets/68971838/c93184fa-e7f3-40ad-b748-d6aaa9c6e5ee)
+![image](https://github.com/Spnl48/PPIDSpoof/assets/68971838/1677760e-4548-4419-a5cf-fc8c7aaef925)
+![image](https://github.com/Spnl48/PPIDSpoof/assets/68971838/f8cc3d44-a991-4cd6-b10e-9a01f7ee3745)
+![image](https://github.com/Spnl48/PPIDSpoof/assets/68971838/d68b3d80-ac37-4c71-a95c-4e5be3ced0d4)
+
 
 
